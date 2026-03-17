@@ -1,8 +1,8 @@
 [package]
 name = "weathery"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
-license = "MIT"
+license = "GPL-3.0-or-later"
 authors = ["VG-dev1 <vitohackergrgic@gmail.com>"]
 description = "A terminal weather app with animated cityscapes"
 keywords = ["cli", "command-line", "weather", "ascii"]
